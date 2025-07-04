@@ -25,4 +25,4 @@
   
 <br>  
 ![Diagram](images/homelab-network.jpg)
-  
+<br>
