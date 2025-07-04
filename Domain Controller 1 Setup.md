@@ -22,5 +22,7 @@
 - Install DNS and AD DS roles  
 - Promote to domain controller  
 - Test with a client VM
+  
+<br>  
 ![Diagram](images/homelab-network.jpg)
   
