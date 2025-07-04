@@ -1,4 +1,4 @@
-Lab Name: Windows Server 2012 Domain Controller Setup
+#Lab Name: Windows Server 2012 Domain Controller Setup
 VM Name: DC01
 OS: Windows Server 2012 Standard
 Role: Primary Domain Controller
