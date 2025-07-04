@@ -1,7 +1,7 @@
 # Lab: Windows Server 2012 Domain Controller Setup
 
 **VM Name:** `DC01`  
-**OS:** Windows Server 2012 Standard  
+**OS:** Windows Server 2022 Standard  
 **Role:** Primary Domain Controller  
 **Lab Network:** Private Virtual Switch  
 **IP Address (Planned):** 10.0.0.10/24 (Static)
@@ -10,7 +10,7 @@
 
 ## Tasks Completed
 
-- Installed Windows Server 2012 on Hyper-V VM  
+- Installed Windows Server 2022 on Hyper-V VM  
 - Renamed computer from default to `DC01`  
 - Planning to assign static IP next  
 
