@@ -1,4 +1,4 @@
-# 🧪 Lab: Windows Server 2012 Domain Controller Setup
+# Lab: Windows Server 2012 Domain Controller Setup
 
 **VM Name:** `DC01`  
 **OS:** Windows Server 2012 Standard  
@@ -8,7 +8,7 @@
 
 ---
 
-## ✅ Tasks Completed
+## Tasks Completed
 
 - Installed Windows Server 2012 on Hyper-V VM  
 - Renamed computer from default to `DC01`  
@@ -16,7 +16,7 @@
 
 ---
 
-## 📌 Next Steps
+## Next Steps
 
 - Set static IP to `10.0.0.10`  
 - Install DNS and AD DS roles  
