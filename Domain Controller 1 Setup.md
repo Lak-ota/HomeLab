@@ -24,5 +24,7 @@
 - Test with a client VM
   
 <br>  
+
 ![Diagram](images/homelab-network.jpg)
+
 <br>
