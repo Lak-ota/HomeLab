@@ -21,4 +21,6 @@
 - Set static IP to `10.0.0.10`  
 - Install DNS and AD DS roles  
 - Promote to domain controller  
-- Test with a client VM  
+- Test with a client VM
+![Diagram](images/homelab-network.jpg)
+  
