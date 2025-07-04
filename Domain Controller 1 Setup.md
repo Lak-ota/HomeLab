@@ -6,7 +6,7 @@
 **Lab Network:** Private Virtual Switch  
 **IP Address (Planned):** 10.0.0.10/24 (Static)
 
----
+
 
 ## Tasks Completed
 
@@ -14,7 +14,7 @@
 - Renamed computer from default to `DC01`  
 - Planning to assign static IP next  
 
----
+
 
 ## Next Steps
 
